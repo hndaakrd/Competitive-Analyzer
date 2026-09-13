@@ -1,0 +1,13 @@
+gradio
+selenium
+bs4
+pandas
+numpy
+scikit-learn
+matplotlib
+plotly
+pytrends
+python-dotenv
+webdriver-manager
+google-search-results
+textblob
